@@ -4,10 +4,9 @@
 
 Passionate about technology and enjoying being a DevOps Engineer  
   
-Work on practical problems and business needs  
+I work on practical problems and business needs  
 by means of choosing right technology,  
-or building and integrating custom-built software  
-for greater independence and maximum compliance with the company's needs.
+or building and integrating a custom-built software.
 
 - Can Do
 - Problem solving
