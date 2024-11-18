@@ -30,4 +30,5 @@ or building and integrating a custom-built software.
 ![](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ## :chart_with_upwards_trend: Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=malferov&theme=dark&mode=weekly)](https://github.com/malferov)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=malferov&theme=dark&mode=weekly)](https://github.com/malferov) -->
+[![GitHub Streak](stats.svg)](https://github.com/malferov)
