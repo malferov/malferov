@@ -2,12 +2,7 @@
 
 ## :technologist: About
 
-Passionate about technology and enjoying being a DevOps Engineer  
-  
-I work on practical problems and business needs  
-by means of choosing the right technology,  
-or building and integrating a custom-built software.
-
+Passionate about technology and enjoying being a DevOps Engineer. I work on practical problems and business needs by choosing the right technology, or creating new custom software.
 - Can Do
 - Problem solving
 - Software dev/ops practices
