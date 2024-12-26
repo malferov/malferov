@@ -2,12 +2,7 @@
 
 ## :technologist: About
 
-Passionate about technology and enjoying being a DevOps Engineer. I work on practical problems and business needs by choosing the right technology, or creating new custom software.
-- Can Do
-- Problem solving
-- Software dev/ops practices
-- Cloud computing
-- Infrastructure as code
+Passionate about technology and enjoying being a DevOps engineer. I work on practical problems and business needs, choosing the right technologies or creating new custom software.
 
 ## :hammer_and_wrench: Prefered Stack
 
