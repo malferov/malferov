@@ -4,7 +4,7 @@
 
 Passionate about technology and enjoying being a DevOps engineer. I work on practical problems and business needs, choosing the right technologies and creating new custom software.
 
-## :hammer_and_wrench: Prefered Stack
+## :hammer_and_wrench: Prefered Tech
 
 ![](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![](https://img.shields.io/badge/AWS-%23232f3e?logo=amazon&style=for-the-badge)
