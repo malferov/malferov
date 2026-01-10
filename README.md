@@ -26,5 +26,4 @@ Passionate about technology with a strong focus on platform engineering. Address
 ## :chart_with_upwards_trend: Stats
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=malferov&theme=dark&mode=weekly)](https://github.com/malferov) -->
 <!-- github api limit tmp -->
-<!-- 2469 + 444 = 2,913 -->
 [![GitHub Streak](stats.svg)](https://github.com/malferov)
