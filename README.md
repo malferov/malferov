@@ -2,7 +2,7 @@
 
 ## :technologist: About
 
-Passionate about technology and enjoying being a DevOps engineer. I work on practical problems and business needs, choosing the right technologies and creating new custom software.
+Passionate about technology with a strong focus on platform engineering. Addressing business needs by selecting the right technologies and building custom software solutions.
 
 ## :hammer_and_wrench: Prefered Tech
 
