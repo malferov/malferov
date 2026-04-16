@@ -2,9 +2,9 @@
 
 ## :technologist: About
 
-Passionate about technology with a strong focus on platform engineering. Addressing business needs by selecting the right technologies and building custom software solutions.
+Senior Platform Engineer. Cloud, API & Security Platforms.
 
-## :hammer_and_wrench: Prefered Tech
+## :hammer_and_wrench: Preferred Tech
 
 ![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
