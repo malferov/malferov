@@ -21,9 +21,3 @@ Senior Platform Engineer. Cloud, API & Security Platforms.
 ![](https://img.shields.io/badge/Ansible-EE0000?logo=Ansible&style=for-the-badge)
 ![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## :chart_with_upwards_trend: Stats
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=malferov&theme=dark&mode=weekly)](https://github.com/malferov) -->
-<!-- github api limit tmp -->
-[![GitHub Streak](stats.svg)](https://github.com/malferov)
